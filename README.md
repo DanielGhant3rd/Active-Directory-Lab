@@ -1,4 +1,4 @@
-<h1>Home Lab Projects</h1>
+<h1>IAM Home Lab </h1>
 
  ### [YouTube Demonstration](https://youtube.com)
 
@@ -10,7 +10,6 @@ Discription of Home Lab
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 

@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtube.com)
 
 <h2>Description</h2>
-Discription of Home Lab
+Home lab hosting Microsoft server2019. Scripting with powershell managing admins, groups and outbound/inbound traffic. Installing Active Directory and servers. Creating groups, OUs and group password polocies.
 <br />
 
 
